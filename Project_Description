@@ -1,0 +1,51 @@
+“Software defect prediction” using Deep Neural network and Recurrent Neural Networks 
+
+ 
+
+Abstract 
+
+Software detection prediction is a study under software engineering, which is aimed to predict the possible defects a software system can encounter. Defect prediction enhances the quality of the software system and gives an early alert for identifying and resolving and preventing the software system from larger defect consequences. To mitigate the potential risk, an automated software detection prediction system using leverage of past data and bug dataset is proposed. Modern techniques like statistical techniques, machine learning and deep learning techniques are researched for defect prediction. This project is proposed for software defect prediction using machine learning and deep learning models. The algorithms proposed for the prediction are Naïve Nayes as ML model and Deep Neural Network (DNN) and Recurrent Neural Network model, Long Short-Term Memory (LSTM) model. This proposed work helps in detection of defects early and can prevent huge losses to the company and maintain the quality of the system. This work used the PROMISE dataset for the study and three algorithms were implemented. The proposed work compares the performance of the implemented algorithm with the test dataset.  
+
+Algorithms Used: 
+
+Naïve Bayes 
+DNN 
+LSTM  
+Dataset Used: 
+
+PROMISE dataset 
+Introduction of the project 
+
+Software defects are undesirable behavior or lack of perfection in the program or software, it has a high impact on the quality of software developed. Software defects may cause huge maintenance costs, decrease customer satisfaction, and affect the system integrity. Thus, software defects should be carefully addressed to eliminate the bug at an early stage of software development. The software defects unattended can cause more expensive maintenance, time consumption and workforce consumption. There are techniques like predictive analysis aimed at defect prediction at initial stages. However, detecting the defects at initial stages is difficult. To ensure the quality of developed software, module-based testing is handled, the limitations of resource and complexity of the code are challenging. Artificial intelligence is the emerging area of study in all domains like finance, agriculture, healthcare, disease diagnosis and more, thus software defects predictions are a recent area of research for many.  
+
+Motivation of the project 
+
+The main motivation of this project is to improve the software's quality by detecting bugs, ensuring quality assurance and improved satisfaction for customers. The project's motivation is to reduce the cost associated with bugs in the software, as the bug in later development may cause acute damage to the software system and complexity in resolving it.  
+
+Purpose of Project 
+
+The purpose of this project is to identify software defects using deep learning approaches. The defects are classified as binary class 'normal', or 'defect' based on the learned features. The deep learning algorithms proposed for this work are Deep Neural Networks and Recurrent Neural Network model (Long Short-Term Memory). The proposed work also implements a machine learning based classifier Naïve Bayes and the performance of the three algorithms are compared. The purpose of the project is to detect software defects with high accuracy. This prediction work helps in providing quality assurance to software systems. The prediction system also helps in identifying the module which has more defects and thus the resource allocation can be done accordingly, helping to reduce the cost of less defective modules. 
+
+Initial Idea to achieve 
+
+The initial idea to achieve the classification of software defects dataset, PROMISE repository data and perform the binary classification. The work can be achieved through implementation of deep learning models LSTM and DNN. As the existing works are available on machine learning models, the proposed defect classification can be performed with deep learning models.  
+
+ 
+
+References 
+
+[1] I. Mehmood et al., "A Novel Approach to Improve Software Defect Prediction Accuracy Using Machine Learning," in IEEE Access, vol. 11, pp. 63579-63597, 2023, doi: 10.1109/ACCESS.2023.3287326. 
+
+[2] Q. Song, Y. Guo and M. Shepperd, "A Comprehensive Investigation of the Role of Imbalanced Learning for Software Defect Prediction," in IEEE Transactions on Software Engineering, vol. 45, no. 12, pp. 1253-1269, 1 Dec. 2019, doi: 10.1109/TSE.2018.2836442. 
+
+[3] X. Yu et al., "Improving Ranking-Oriented Defect Prediction Using a Cost-Sensitive Ranking SVM," in IEEE Transactions on Reliability, vol. 69, no. 1, pp. 139-153, March 2020, doi: 10.1109/TR.2019.2931559. 
+
+[4] E. A. Felix and S. P. Lee, "Integrated Approach to Software Defect Prediction," in IEEE Access, vol. 5, pp. 21524-21547, 2017, doi: 10.1109/ACCESS.2017.2759180. 
+
+[5] F. Zhang, A. E. Hassan, S. McIntosh and Y. Zou, "The Use of Summation to Aggregate Software Metrics Hinders the Performance of Defect Prediction Models," in IEEE Transactions on Software Engineering, vol. 43, no. 5, pp. 476-491, 1 May 2017, doi: 10.1109/TSE.2016.2599161. 
+
+[6] M. A. Memon, M.-U.-R. Magsi, M. Memon, and S. Hyder, ‘‘Defects prediction and prevention approaches for quality software development,’’ Int. J. Adv. Comput. Sci. Appl., vol. 9, no. 8, pp. 451–457, 2018. 
+
+ 
+
+ 
